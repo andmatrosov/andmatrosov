@@ -6,9 +6,6 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" width="100">
 	</a>
 </div>
-<div align="center">
-	<img src="https://visitcount.itsvg.in/api?id=andmatrosov&label=Profile%20Views&color=0&icon=5&pretty=true" />
-</div>
 
 ---
 
