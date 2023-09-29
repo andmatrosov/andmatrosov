@@ -1,3 +1,7 @@
+![](https://github.com/andmatrosov/andmatrosov/blob/master/cover.gif)
+
+---
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -8,8 +12,6 @@
 </div>
 
 ---
-
-![](https://github.com/andmatrosov/andmatrosov/blob/master/cover.gif)
 
 # 💫 About Me:
 
