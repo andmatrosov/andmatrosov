@@ -9,13 +9,15 @@
 
 ---
 
+![](https://github.com/andmatrosov/andmatrosov/blob/master/cover.gif)
+
 # 💫 About Me:
 
 Образование:<br><br>В 2021 прошел курс по вёрстке от GloAcademy и начал свой путь во Front-end.<br> <br>Опыт работы:<br><br>LEADREAKTOR, старший верстальщик, с 09.2021 по настоящее время.<br><br>Навыки:<br><br>Веб-разработка: HTML, CSS, SCSS, JavaScript, JQuery, Bootstrap, ReactJS, Gulp, WebPack<br>Знание JavaScript, в процессе изучения ReactJS.<br>Креативность и умение находить нестандартные решения<br>Коммуникабельность и умение работать в команде<br>Английский язык А2<br><br>Желаемая должность:<br>Веб-разработчик<br><br>Цель:<br><br>Я ищу работу в команде, где смогу расти профессионально, получать новые знания и опыт, а также применять свои навыки для создания качественных и креативных проектов.
 
 ## 🌐 Socials:
 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/andmatrosov)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/andmatrosov) [![Telegtam](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/andrewmatrosov)
 
 # 💻 Tech Stack:
 
