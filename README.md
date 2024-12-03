@@ -2,7 +2,7 @@
 
 ### About
 
-🔭 I’m currently working at web-agency "100up"<br />✏️ I’m currently learning<br>🤝🏻 I'm open to new offers
+🔭 I’m currently working at web-agency "100up"<br />✏️ I’m currently learning SPA with Vue.js and some backend with Node.js<br>🤝🏻 I'm open to new offers
 
 ### 🌐 Contacts:
 
@@ -21,6 +21,10 @@
 ### Portfolio
 
 <table>
+    <tr>
+        <th>Shop with cart and favorites</th>
+        <th>Company's blog with pagination</th>
+    </tr>
     <tr>
         <td>
             <a href="https://github.com/andmatrosov/vue-sneakers/" title="Open git repo">
