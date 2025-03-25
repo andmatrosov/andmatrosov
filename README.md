@@ -2,7 +2,7 @@
 
 ### About
 
-🔭 I’m currently working at web-agency "100up"<br />✏️ I’m currently learning SPA with Vue.js and some backend with Node.js<br>🤝🏻 I'm open to new offers
+🔭 I’m currently working at web-agency "100up"<br />
 
 ### 🌐 Contacts:
 
